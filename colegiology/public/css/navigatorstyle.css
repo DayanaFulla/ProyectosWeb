@@ -1,0 +1,104 @@
+.navbar{
+    background-color: #44505D;
+
+}
+.navbar-brand{
+    font-size: 25px;
+    font-family: "Helvetica Neue";
+    color: white;
+}
+.navbar-brand label{
+    border: solid #ED7579;
+    padding: 2px 10px 2px 10px;
+    border-radius: 25px;
+    margin-right: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 30px;
+    color: white;
+}
+.navbar-brand span{
+    font-size: 18px;
+    color: #ED7579;
+}
+.nav-link{
+    color: white;
+    font-weight: bold;
+}
+#btnlogin{
+    background: transparent;
+    border:none;
+}
+#imgcursos{
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#fondocursos{
+    width: 100%;
+    display: flex;
+    background-color: #EACDCF;
+}
+.accionesmaterias{
+    background: transparent;
+    color: #ED7579;
+    border: none;
+    font-size: 20px;
+}
+.lstcursos{
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px 20px 20px 20px;
+    background-color: white;
+}
+.lstcursos ul{
+    list-style: none;
+}
+.lstcursos ul li{
+    border-bottom: solid #DDDDDD 1px;
+    padding: 10px 0px 10px 0px;
+}
+.lstcursos ul li label span{
+    padding-right: 10px;
+}
+.course{
+    display: flex;
+}
+.course a{
+    color: #ED7579;
+    width: 580px;
+}
+.course button{
+    color:gray;
+    background-color: transparent;
+    border: none;
+    padding: 0px 15px 0px 15px;
+}
+.lstcursos ul li label{
+    color:gray;
+}
+#btncerrarsesion{
+    width: 100%;
+    background-color: transparent;
+    border:none;
+}
+
+#btncerrarsesion:hover{
+    background-color: lightgrey;
+}
+.subscripcion{
+    display: flex;
+}
+.subscripcion a{
+    width: 600px;
+}
+.subscripcion button{
+    background-color: transparent;
+    border-radius: 20px;
+    border-color: #ED7579;
+    color: gray;
+}
+.subscripcion button:hover{
+    background-color: lightgray;
+}

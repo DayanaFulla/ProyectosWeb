@@ -1,0 +1,109 @@
+.cursosecc1 img{
+    width: 200px;
+}
+.cursosecc1{
+    float: left;
+    margin-left: 120px;
+    width: 16%;
+    height: 80%;
+    padding-top: 20px;
+}
+.cursosecc1 div{
+    padding-top: 10px;
+}
+.cursosecc1 div a{
+    width: 100%;
+    display: inline-flex;
+    padding: 8px ;
+    border-bottom: solid #DDDDDD 1px;
+    color: #44505D;
+}
+
+.cursosecc1 div a:hover{
+    background-color: #DDDDDD;
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+}
+.cursosecc2{
+    float: left;
+    width: 50%;
+    height: 100%;
+    padding: 5px 25px 10px 25px;
+    border: solid lightgray 1px;
+}
+
+.materiahead label{
+    font-weight: revert;
+    font-size: 20px;
+    padding-top: 10px;
+}
+
+.seccontent{
+    display: flex;
+    border-bottom: solid 1px lightgray;
+    padding: 10px 5px 10px 5px;
+}
+.seccontent a{
+    width: 500px;
+    color: gray;
+}
+.seccontent a i{
+    padding-right: 28px;
+}
+.seccontent button{
+    border:none;
+    padding: 0px 20px 0px 20px;
+    background-color: transparent;
+}
+
+.sectarea{
+    display: flex;
+    border-bottom: solid 1px lightgray;
+    padding: 10px 5px 10px 5px;
+}
+.sectarea a{
+    width: 500px;
+    color: gray;
+}
+.sectarea a i{
+    padding-right: 20px;
+    font-size: 22px;
+}
+.sectarea button{
+    border:none;
+    padding: 0px 20px 0px 20px;
+    background-color: transparent;
+}
+.miembros{
+    float: left;
+    width: 50%;
+   height: 580px;
+    padding: 5px 25px 10px 25px;
+    border: solid lightgray 1px;
+}
+
+.miembros .miembroshead label{
+    font-weight: revert;
+    font-size: 20px;
+    padding-top: 10px;
+}
+.miembroshead{
+    border-bottom: solid 1px lightgray;
+}
+.secmiembros{
+    border-bottom: solid 1px lightgray;
+    padding: 5px 0px 5px 0px;
+}
+.secmiembros label{
+    width: 550px;
+    color: gray;
+}
+.secmiembros label i{
+    padding-right: 20px;
+}
+.secmiembros button{
+    background-color: transparent;
+    border: none;
+    color:#ED7579;
+}
